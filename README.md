@@ -20,3 +20,9 @@ MSc Quantitative Finance student at the University of Warsaw. I work on derivati
 C++ · Python · SQL · R · Stata · PyTorch · pandas · Docker · Git
 
 [LinkedIn](https://www.linkedin.com/in/milankalajdzic)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilanKalajdzic/MilanKalajdzic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilanKalajdzic/MilanKalajdzic/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/MilanKalajdzic/MilanKalajdzic/output/github-snake.svg" />
+</picture>
